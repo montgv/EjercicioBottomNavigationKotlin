@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".fragmentos.asirFragment" >
+    tools:context=".fragmentos.AsirFragment" >
 
     <ScrollView
         android:id="@+id/idScrollViewAsir"
@@ -47,7 +47,6 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/idIVAsirFragmento" />
-
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>

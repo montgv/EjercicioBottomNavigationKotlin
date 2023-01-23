@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import com.example.ejerciciobottomnavigationkotlin.R
 
-class damFragment : Fragment() {
+class DamFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
